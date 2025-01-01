@@ -6,14 +6,13 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn n
 
 - 🌱 I’m currently learning advanced algorithms and data structures.
 - 🤝 I’m looking to collaborate on exciting open-source projects.
-- 💬 Ask me about Python, JavaScript, and web development.
 - 📫 How to reach me: (gislainedsp21@gmail.com)
-- ⚡ Fun fact: I love solving puzzles and playing chess in my free time.
+- ⚡ Fun fact:I love learning new codes and their features and watching movies and series in my free time..
 
 ## 🛠️ Languages and Tools
 
-- **Languages:** Python, JavaScript, HTML, CSS
-- **Tools:** Git, VS Code
+- **Languages:** Python, JavaScript, HTML, CSS student
+- **Tools:** Learning Git, VS Code
 
 ## 📈 GitHub Stats
 
@@ -21,9 +20,8 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn n
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-profile)
-- [Personal Blog](https://your-blog.com)
+- [LinkedIn](https://www.linkedin.com/in/gislaine-da-silva-paiva-9a728aa6/)
+
 
 ## 📝 Latest Blog Posts
 
